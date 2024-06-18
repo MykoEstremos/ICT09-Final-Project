@@ -85,7 +85,7 @@ def review_answers(quiz_data, user_answers):
         print()
 
 
-# To run the quiz
+
 user_answers = run_quiz(quiz_data)
 review_answers(quiz_data, user_answers)
 
