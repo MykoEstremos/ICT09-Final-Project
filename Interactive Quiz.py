@@ -6,8 +6,6 @@ quiz_data = [
     {"question": "What is 2 + 2?", "options": ["A) 3", "B) 4", "C) 5", "D) 6"], "answer": "B"},
     {"question": "Who wrote 'Hamlet'?",
      "options": ["A) Charles Dickens", "B) William Shakespeare", "C) Mark Twain", "D) Jane Austen"], "answer": "B"},
-    # Add more questions here to reach 100 questions
-    # ...
 ]
 
 
