@@ -1,4 +1,4 @@
-# Complete script for the quiz
+
 
 quiz_data = [
     {"question": "What is the capital of France?", "options": ["A) Paris", "B) London", "C) Berlin", "D) Madrid"],
